@@ -3,8 +3,8 @@
 ## **Descrição Geral**
 Este sistema foi desenvolvido em VBA no Excel com o objetivo principal de **calcular impostos** de empresas enquadradas nos regimes tributários de **lucro real** e **lucro presumido**. O cálculo inclui os seguintes impostos:
 
-- **IRPJ** (em desenvolvimento)
-- **CSLL** (em desenvolvimento)
+- **IRPJ** 
+- **CSLL** 
 - **PIS**
 - **COFINS**
 
@@ -52,7 +52,6 @@ Este sistema foi desenvolvido em VBA no Excel com o objetivo principal de **calc
 ---
 
 ## **Próximos Passos**
-- Concluir o desenvolvimento dos cálculos de **IRPJ** e **CSLL**.
 - Expandir o suporte para notas fiscais de outros municípios (opcional).
 - Otimizar a interface e funcionalidades para maior usabilidade.
 
